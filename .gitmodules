@@ -1,0 +1,3 @@
+[submodule "models/deepsems"]
+	path = models/deepsems
+	url = https://github.com/lab-of-biochemai/DeepSeMS.git
